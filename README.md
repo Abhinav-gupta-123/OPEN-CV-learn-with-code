@@ -1,1 +1,1 @@
-# OPEN-CV-Practice-with-projects
+# OPEN-CV-learn-with-code
