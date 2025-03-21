@@ -58,8 +58,6 @@ jupyter notebook
 Or use Google Colab for running advanced models smoothly.
 
 
-
-
 🚀 Why Use This Repository?
 
 ✔️ Structured Learning – Covers OpenCV from basics to advanced.
