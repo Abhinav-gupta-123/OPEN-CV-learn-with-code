@@ -68,7 +68,9 @@ Or use Google Colab for running advanced models smoothly.
 
 ✔️ Free Resources – Pre-trained models included for learning & testing
 
+
 🔗 Stay Connected
+
 📌 **GitHub**: [Abhinav Gupta](https://github.com/Abhinav-gupta-123)
 
 📌 LinkedIn:[Abhinav Gupta](https://www.linkedin.com/in/abhinav-gupta-34a1b2349)
