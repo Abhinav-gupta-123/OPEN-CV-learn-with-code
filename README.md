@@ -72,15 +72,16 @@ Follow these steps to start learning and experimenting with OpenCV:
 git clone https://github.com/Abhinav-gupta-123/OPEN-CV-learn-with-code.git
 
 
-### 📌Step 2: Install Dependencies
-Ensure you have the required Python libraries installed:
-
+### 📌 **Step 2: Install Dependencies1**
+Ensure you have the required Python libraries installed
+```bash
 pip install -r requirements.txt
 
 
-### 📌📌 Step 3: Run the Notebooks
+### 📌📌 **Step 3: Run the Notebooks**
 Launch Jupyter Notebook and explore the topics:
 
+```bash
 jupyter notebook
 
 Or use Google Colab for running complex models easily.
