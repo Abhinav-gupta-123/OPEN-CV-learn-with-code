@@ -24,7 +24,7 @@ This repository is **well-structured** and contains:
 📂 **Object Detection** – YOLO, Haar Cascades, and OpenCV DNN models  
 📂 **Tracking Systems** – Single & Multi-Object tracking using OpenCV  
 📂 **Pre-trained Models** – Includes `.caffemodel`, `.weights`, `.onnx` files for quick use  
-📂 **Mini Projects** – Face Mask Detection, Number Plate Recognition, Gesture Control  
+📂 **Mini Projects in computer vision repo** – Face Mask Detection, Barcode Decoder, Gesture Control
 
 ---
 
